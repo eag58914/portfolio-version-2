@@ -1,0 +1,13 @@
+.eCGiVL {
+	display: flex;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+	-webkit-box-align: center;
+	align-items: center;
+	position: relative;
+	width: 100%;
+	color: rgb(204, 214, 246);
+	font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+	counter-reset: item 0;
+	z-index: 12;
+}
